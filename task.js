@@ -14,7 +14,7 @@ function solveEquation(a, b ,c) {
         return finish = [x1, x2];
     }
 }
-solveEquation(3, -6, -20);
+solveEquation(3, -6, -110);
 console.log(finish)
 
 
